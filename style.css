@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(#ffff00, #ffffff);
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho{
+    background-color: #ffff00;
+    color: white;
+    display: flex;
+    padding: 20px 0;
+    justify-content: center;
+}
+
+.cabecalho-imagem{
+    width: 5%;
+}
+
+.pagina-primaria{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+}
+
+.pagina-imagem{
+    width: 30%;
+}
+
+.pagina-titulo{
+    font-size: 50px;
+}
+
+.pagina-aviso{
+    font-size: 15px;
+    width: 60%;
+}
+
+.pagina-segundaria{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin: 200px 50px;
+}
+
+.pagina-titulo2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.pagina-aviso3{
+    font-size: 30px;
+}
+
+.exercicios{
+    margin-left: 20px;
+}
